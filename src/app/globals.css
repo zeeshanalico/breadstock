@@ -1,11 +1,11 @@
 @import "tailwindcss";
 :root {
-  --color-primary: #7D0A0A;
-  --color-secondary: #BF3131;
-  --color-accent: #EAD196;
-  --color-light: #EEEEEE;
+  --color-primary: #7d0a0a;
+  --color-secondary: #bf3131;
+  --color-accent: #ead196;
+  --color-light: #eeeeee;
 
-  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
 
   --font-size-xs: 0.75rem;
   --line-height-xs: 1rem;
